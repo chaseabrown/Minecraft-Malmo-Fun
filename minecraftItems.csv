@@ -1,0 +1,720 @@
+id,namePrint,nameOfficial,color
+0,Air,air,
+1,Stone,stone,"(81,81,81)"
+1.1,Granite,stone,"(81,81,81)"
+1.2,Polished Granite,stone,"(81,81,81)"
+1.3,Diorite,stone,"(81,81,81)"
+1.4,Polished Diorite,stone,"(81,81,81)"
+1.5,Andesite,stone,"(81,81,81)"
+1.6,Polished Andesite,stone,"(81,81,81)"
+2,Grass,grass,"(70,107,60)"
+3,Dirt,dirt,"(89,70,56)"
+3.1,Coarse Dirt,dirt,"(89,70,56)"
+3.2,Podzol,dirt,"(89,70,56)"
+4,Cobblestone,cobblestone,"-102,102,102"
+5,Oak Wood Plank,planks,
+5.1,Spruce Wood Plank,planks,
+5.2,Birch Wood Plank,planks,
+5.3,Jungle Wood Plank,planks,
+5.4,Acacia Wood Plank,planks,
+5.5,Dark Oak Wood Plank,planks,
+6,Oak Sapling,sapling,
+6.1,Spruce Sapling,sapling,
+6.2,Birch Sapling,sapling,
+6.3,Jungle Sapling,sapling,
+6.4,Acacia Sapling,sapling,
+6.5,Dark Oak Sapling,sapling,
+7,Bedrock,bedrock,"(55,55,55)"
+8,Flowing Water,flowing_water,
+9,Still Water,water,"-46,125,233"
+10,Flowing Lava,flowing_lava,
+11,Still Lava,lava,"(206,96,22)"
+12,Sand,sand,"-172,166,129"
+12.1,Red Sand,sand,"-172,166,129"
+13,Gravel,gravel,"(102,100,98)"
+14,Gold Ore,gold_ore,"(139,131,95)"
+15,Iron Ore,iron_ore,"(119,105,96)"
+16,Coal Ore,coal_ore,"(65,65,65)"
+17,Oak Wood,log,
+17.1,Spruce Wood,log,
+17.2,Birch Wood,log,
+17.3,Jungle Wood,log,
+18,Oak Leaves,leaves,
+18.1,Spruce Leaves,leaves,
+18.2,Birch Leaves,leaves,
+18.3,Jungle Leaves,leaves,
+19,Sponge,sponge,"(132,130,50)"
+19.1,Wet Sponge,sponge,"(132,130,50)"
+20,Glass,glass,"-114,139,143"
+21,Lapis Lazuli Ore,lapis_ore,
+22,Lapis Lazuli Block,lapis_block,
+23,Dispenser,dispenser,
+24,Sandstone,sandstone,"-148,144,113"
+24.1,Chiseled Sandstone,sandstone,"-148,144,113"
+24.2,Smooth Sandstone,sandstone,"-148,144,113"
+25,Note Block,noteblock,
+26,Bed,bed,
+27,Powered Rail,golden_rail,
+28,Detector Rail,detector_rail,
+29,Sticky Piston,sticky_piston,
+30,Cobweb,web,
+31,Dead Shrub,tallgrass,
+31.1,Grass,tallgrass,
+31.2,Fern,tallgrass,
+32,Dead Bush,deadbush,
+33,Piston,piston,
+34,Piston Head,piston_head,
+35,White Wool,wool,"-152,154,154"
+35.1,Orange Wool,wool,"-152,154,154"
+35.2,Magenta Wool,wool,"-152,154,154"
+35.3,Light Blue Wool,wool,"-152,154,154"
+35.4,Yellow Wool,wool,"-152,154,154"
+35.5,Lime Wool,wool,"-152,154,154"
+35.6,Pink Wool,wool,"-152,154,154"
+35.7,Gray Wool,wool,"-152,154,154"
+35.8,Light Gray Wool,wool,"-152,154,154"
+35.9,Cyan Wool,wool,"-152,154,154"
+35.1,Purple Wool,wool,"-152,154,154"
+35.11,Blue Wool,wool,"-152,154,154"
+35.12,Brown Wool,wool,"-152,154,154"
+35.13,Green Wool,wool,"-152,154,154"
+35.14,Red Wool,wool,"-152,154,154"
+35.15,Black Wool,wool,"-152,154,154"
+37,Dandelion,yellow_flower,
+38,Poppy,red_flower,
+38.1,Blue Orchid,red_flower,
+38.2,Allium,red_flower,
+38.3,Azure Bluet,red_flower,
+38.4,Red Tulip,red_flower,
+38.5,Orange Tulip,red_flower,
+38.6,White Tulip,red_flower,
+38.7,Pink Tulip,red_flower,
+38.8,Oxeye Daisy,red_flower,
+39,Brown Mushroom,brown_mushroom,
+40,Red Mushroom,red_mushroom,
+41,Gold Block,gold_block,"(187,172,52)"
+42,Iron Block,iron_block,"-155,155,155"
+43,Double Stone Slab,double_stone_slab,
+43.1,Double Sandstone Slab,double_stone_slab,
+43.2,Double Wooden Slab,double_stone_slab,
+43.3,Double Cobblestone Slab,double_stone_slab,
+43.4,Double Brick Slab,double_stone_slab,
+43.5,Double Stone Brick Slab,double_stone_slab,
+43.6,Double Nether Brick Slab,double_stone_slab,
+43.7,Double Quartz Slab,double_stone_slab,
+44,Stone Slab,stone_slab,"(86,86,86)"
+44.1,Sandstone Slab,stone_slab,"(86,86,86)"
+44.2,Wooden Slab,stone_slab,"(86,86,86)"
+44.3,Cobblestone Slab,stone_slab,"(86,86,86)"
+44.4,Brick Slab,stone_slab,"(86,86,86)"
+44.5,Stone Brick Slab,stone_slab,"(86,86,86)"
+44.6,Nether Brick Slab,stone_slab,"(86,86,86)"
+44.7,Quartz Slab,stone_slab,"(86,86,86)"
+45,Bricks,brick_block,
+46,TNT,tnt,"(109,52,37)"
+47,Bookshelf,bookshelf,"(84,73,52)"
+48,Moss Stone,mossy_cobblestone,
+49,Obsidian,obsidian,"(21,17,31)"
+50,Torch,torch,
+51,Fire,fire,
+52,Monster Spawner,mob_spawner,"(20,29,35)"
+53,Oak Wood Stairs,oak_stairs,
+54,Chest,chest,
+55,Redstone Wire,redstone_wire,
+56,Diamond Ore,diamond_ore,"-106,132,139"
+57,Diamond Block,diamond_block,"-61,153,149"
+58,Crafting Table,crafting_table,
+59,Wheat Crops,wheat,"(154,135,75)"
+60,Farmland,farmland,"(81,61,47)"
+61,Furnace,furnace,
+62,Burning Furnace,lit_furnace,
+63,Standing Sign Block,standing_sign,
+64,Oak Door Block,wooden_door,
+65,Ladder,ladder,
+66,Rail,rail,
+67,Cobblestone Stairs,stone_stairs,"(94,94,94)"
+68,Wall-mounted Sign Block,wall_sign,
+69,Lever,lever,
+70,Stone Pressure Plate,stone_pressure_plate,
+71,Iron Door Block,iron_door,
+72,Wooden Pressure Plate,wooden_pressure_plate,
+73,Redstone Ore,redstone_ore,"(113,43,43)"
+74,Glowing Redstone Ore,lit_redstone_ore,
+75,Redstone Torch ,unlit_redstone_torch,
+76,Redstone Torch ,redstone_torch,
+77,Stone Button,stone_button,
+78,Snow,snow_layer,
+79,Ice,ice,"-126,140,162"
+80,Snow Block,snow,"-165,172,172"
+81,Cactus,cactus,"(10,78,19)"
+82,Clay,clay,"-109,114,133"
+83,Sugar Canes,reeds,
+84,Jukebox,jukebox,
+85,Oak Fence,fence,
+86,Pumpkin,pumpkin,"(145,95,18)"
+87,Netherrack,netherrack,"(101,51,46)"
+88,Soul Sand,soul_sand,"(72,56,47)"
+89,Glowstone,glowstone,"(113,87,58)"
+90,Nether Portal,portal,
+91,Jack o'Lantern,lit_pumpkin,
+92,Cake Block,cake,
+93,Redstone Repeater Block ,unpowered_repeater,
+94,Redstone Repeater Block ,powered_repeater,
+95,White Stained Glass,stained_glass,
+95.1,Orange Stained Glass,stained_glass,
+95.2,Magenta Stained Glass,stained_glass,
+95.3,Light Blue Stained Glass,stained_glass,
+95.4,Yellow Stained Glass,stained_glass,
+95.5,Lime Stained Glass,stained_glass,
+95.6,Pink Stained Glass,stained_glass,
+95.7,Gray Stained Glass,stained_glass,
+95.8,Light Gray Stained Glass,stained_glass,
+95.9,Cyan Stained Glass,stained_glass,
+95.1,Purple Stained Glass,stained_glass,
+95.11,Blue Stained Glass,stained_glass,
+95.12,Brown Stained Glass,stained_glass,
+95.13,Green Stained Glass,stained_glass,
+95.14,Red Stained Glass,stained_glass,
+95.15,Black Stained Glass,stained_glass,
+96,Wooden Trapdoor,trapdoor,
+97,Stone Monster Egg,monster_egg,
+97.1,Cobblestone Monster Egg,monster_egg,
+97.2,Stone Brick Monster Egg,monster_egg,
+97.3,Mossy Stone Brick Monster Egg,monster_egg,
+97.4,Cracked Stone Brick Monster Egg,monster_egg,
+97.5,Chiseled Stone Brick Monster Egg,monster_egg,
+98,Stone Bricks,stonebrick,
+98.1,Mossy Stone Bricks,stonebrick,
+98.2,Cracked Stone Bricks,stonebrick,
+98.3,Chiseled Stone Bricks,stonebrick,
+99,Brown Mushroom Block,brown_mushroom_block,"(109,82,64)"
+100,Red Mushroom Block,red_mushroom_block,"(134,46,45)"
+101,Iron Bars,iron_bars,
+102,Glass Pane,glass_pane,
+103,Melon Block,melon_block,
+104,Pumpkin Stem,pumpkin_stem,
+105,Melon Stem,melon_stem,
+106,Vines,vine,
+107,Oak Fence Gate,fence_gate,
+108,Brick Stairs,brick_stairs,"(114,78,69)"
+109,Stone Brick Stairs,stone_brick_stairs,"(94,94,94)"
+110,Mycelium,mycelium,"(83,71,71)"
+111,Lily Pad,waterlily,
+112,Nether Brick,nether_brick,"(34,17,20)"
+113,Nether Brick Fence,nether_brick_fence,
+114,Nether Brick Stairs,nether_brick_stairs,"(41,20,24)"
+115,Nether Wart,nether_wart,"(131,34,42)"
+116,Enchantment Table,enchanting_table,
+117,Brewing Stand,brewing_stand,
+118,Cauldron,cauldron,
+119,End Portal,end_portal,
+120,End Portal Frame,end_portal_frame,
+121,End Stone,end_stone,"-157,160,117"
+122,Dragon Egg,dragon_egg,"(19,5,21)"
+123,Redstone Lamp ,redstone_lamp,
+124,Redstone Lamp ,lit_redstone_lamp,
+125,Double Oak Wood Slab,double_wooden_slab,
+125.1,Double Spruce Wood Slab,double_wooden_slab,
+125.2,Double Birch Wood Slab,double_wooden_slab,
+125.3,Double Jungle Wood Slab,double_wooden_slab,
+125.4,Double Acacia Wood Slab,double_wooden_slab,
+125.5,Double Dark Oak Wood Slab,double_wooden_slab,
+126,Oak Wood Slab,wooden_slab,
+126.1,Spruce Wood Slab,wooden_slab,
+126.2,Birch Wood Slab,wooden_slab,
+126.3,Jungle Wood Slab,wooden_slab,
+126.4,Acacia Wood Slab,wooden_slab,
+126.5,Dark Oak Wood Slab,wooden_slab,
+127,Cocoa,cocoa,
+128,Sandstone Stairs,sandstone_stairs,"-149,145,109"
+129,Emerald Ore,emerald_ore,"(75,96,82)"
+130,Ender Chest,ender_chest,
+131,Tripwire Hook,tripwire_hook,
+132,Tripwire,tripwire_hook,
+133,Emerald Block,emerald_block,"(33,140,63)"
+134,Spruce Wood Stairs,spruce_stairs,
+135,Birch Wood Stairs,birch_stairs,
+136,Jungle Wood Stairs,jungle_stairs,
+137,Command Block,command_block,
+138,Beacon,beacon,
+139,Cobblestone Wall,cobblestone_wall,"(88,88,88)"
+139.1,Mossy Cobblestone Wall,cobblestone_wall,"(88,88,88)"
+140,Flower Pot,flower_pot,
+141,Carrots,carrots,
+142,Potatoes,potatoes,
+143,Wooden Button,wooden_button,
+144,Mob Head,skull,
+145,Anvil,anvil,
+146,Trapped Chest,trapped_chest,
+147,Weighted Pressure Plate ,light_weighted_pressure_plate,
+148,Weighted Pressure Plate ,heavy_weighted_pressure_plate,
+149,Redstone Comparator ,unpowered_comparator,
+150,Redstone Comparator ,powered_comparator,
+151,Daylight Sensor,daylight_detector,
+152,Redstone Block,redstone_block,"(138,23,7)"
+153,Nether Quartz Ore,quartz_ore,"(117,79,74)"
+154,Hopper,hopper,
+155,Quartz Block,quartz_block,"-157,154,149"
+155.1,Chiseled Quartz Block,quartz_block,"-157,154,149"
+155.2,Pillar Quartz Block,quartz_block,"-157,154,149"
+156,Quartz Stairs,quartz_stairs,"-188,186,179"
+157,Activator Rail,activator_rail,
+158,Dropper,dropper,
+159,White Hardened Clay,stained_hardened_clay,
+159.1,Orange Hardened Clay,stained_hardened_clay,
+159.2,Magenta Hardened Clay,stained_hardened_clay,
+159.3,Light Blue Hardened Clay,stained_hardened_clay,
+159.4,Yellow Hardened Clay,stained_hardened_clay,
+159.5,Lime Hardened Clay,stained_hardened_clay,
+159.6,Pink Hardened Clay,stained_hardened_clay,
+159.7,Gray Hardened Clay,stained_hardened_clay,
+159.8,Light Gray Hardened Clay,stained_hardened_clay,
+159.9,Cyan Hardened Clay,stained_hardened_clay,
+159.1,Purple Hardened Clay,stained_hardened_clay,
+159.11,Blue Hardened Clay,stained_hardened_clay,
+159.12,Brown Hardened Clay,stained_hardened_clay,
+159.13,Green Hardened Clay,stained_hardened_clay,
+159.14,Red Hardened Clay,stained_hardened_clay,
+159.15,Black Hardened Clay,stained_hardened_clay,
+160,White Stained Glass Pane,stained_glass_pane,
+160.1,Orange Stained Glass Pane,stained_glass_pane,
+160.2,Magenta Stained Glass Pane,stained_glass_pane,
+160.3,Light Blue Stained Glass Pane,stained_glass_pane,
+160.4,Yellow Stained Glass Pane,stained_glass_pane,
+160.5,Lime Stained Glass Pane,stained_glass_pane,
+160.6,Pink Stained Glass Pane,stained_glass_pane,
+160.7,Gray Stained Glass Pane,stained_glass_pane,
+160.8,Light Gray Stained Glass Pane,stained_glass_pane,
+160.9,Cyan Stained Glass Pane,stained_glass_pane,
+160.1,Purple Stained Glass Pane,stained_glass_pane,
+160.11,Blue Stained Glass Pane,stained_glass_pane,
+160.12,Brown Stained Glass Pane,stained_glass_pane,
+160.13,Green Stained Glass Pane,stained_glass_pane,
+160.14,Red Stained Glass Pane,stained_glass_pane,
+160.15,Black Stained Glass Pane,stained_glass_pane,
+161,Acacia Leaves,leaves2,
+161.1,Dark Oak Leaves,leaves2,
+162,Acacia Wood,log2,
+162.1,Dark Oak Wood,log2,
+163,Acacia Wood Stairs,acacia_stairs,
+164,Dark Oak Wood Stairs,dark_oak_stairs,
+165,Slime Block,slime,
+166,Barrier,barrier,"(204,32,34)"
+167,Iron Trapdoor,iron_trapdoor,
+168,Prismarine,prismarine,"-88,116,116"
+168.1,Prismarine Bricks,prismarine,"-88,116,116"
+168.2,Dark Prismarine,prismarine,"-88,116,116"
+169,Sea Lantern,sea_lantern,"-112,138,131"
+170,Hay Bale,hay_block,
+171,White Carpet,carpet,
+171.1,Orange Carpet,carpet,
+171.2,Magenta Carpet,carpet,
+171.3,Light Blue Carpet,carpet,
+171.4,Yellow Carpet,carpet,
+171.5,Lime Carpet,carpet,
+171.6,Pink Carpet,carpet,
+171.7,Gray Carpet,carpet,
+171.8,Light Gray Carpet,carpet,
+171.9,Cyan Carpet,carpet,
+171.1,Purple Carpet,carpet,
+171.11,Blue Carpet,carpet,
+171.12,Brown Carpet,carpet,
+171.13,Green Carpet,carpet,
+171.14,Red Carpet,carpet,
+171.15,Black Carpet,carpet,
+172,Hardened Clay,hardened_clay,"(121,75,54)"
+173,Block of Coal,coal_block,"(70,70,70)"
+174,Packed Ice,packed_ice,"-96,118,160"
+175,Sunflower,double_plant,
+175.1,Lilac,double_plant,
+175.2,Double Tallgrass,double_plant,
+175.3,Large Fern,double_plant,
+175.4,Rose Bush,double_plant,
+175.5,Peony,double_plant,
+176,Free-standing Banner,standing_banner,
+177,Wall-mounted Banner,wall_banner,
+178,Inverted Daylight Sensor,daylight_detector_inverted,
+179,Red Sandstone,red_sandstone,"(122,77,47)"
+179.1,Chiseled Red Sandstone,red_sandstone,"(122,77,47)"
+179.2,Smooth Red Sandstone,red_sandstone,"(122,77,47)"
+180,Red Sandstone Stairs,red_sandstone_stairs,"(116,59,21)"
+181,Double Red Sandstone Slab,double_stone_slab2,
+182,Red Sandstone Slab,stone_slab2,
+183,Spruce Fence Gate,spruce_fence_gate,
+184,Birch Fence Gate,birch_fence_gate,
+185,Jungle Fence Gate,jungle_fence_gate,
+186,Dark Oak Fence Gate,dark_oak_fence_gate,
+187,Acacia Fence Gate,acacia_fence_gate,
+188,Spruce Fence,spruce_fence,
+189,Birch Fence,birch_fence,
+190,Jungle Fence,jungle_fence,
+191,Dark Oak Fence,dark_oak_fence,
+192,Acacia Fence,acacia_fence,
+193,Spruce Door Block,spruce_door,
+194,Birch Door Block,birch_door,
+195,Jungle Door Block,jungle_door,
+196,Acacia Door Block,acacia_door,
+197,Dark Oak Door Block,dark_oak_door,
+198,End Rod,end_rod,"-141,128,128"
+199,Chorus Plant,chorus_plant,"(93,103,78)"
+200,Chorus Flower,chorus_flower,"-123,103,123"
+201,Purpur Block,purpur_block,"(129,97,129)"
+202,Purpur Pillar,purpur_pillar,"-131,100,131"
+203,Purpur Stairs,purpur_stairs,"(129,97,129)"
+204,Purpur Double Slab,purpur_double_slab,
+205,Purpur Slab,purpur_slab,"-132,100,132"
+206,End Stone Bricks,end_bricks,
+207,Beetroot Block,beetroots,
+208,Grass Path,grass_path,"(132,119,97)"
+209,End Gateway,end_gateway,
+210,Repeating Command Block,repeating_command_block,
+211,Chain Command Block,chain_command_block,
+212,Frosted Ice,frosted_ice,
+213,Magma Block,magma,
+214,Nether Wart Block,nether_wart_block,"(96,11,12)"
+215,Red Nether Brick,red_nether_brick,"(72,7,8)"
+216,Bone Block,bone_block,"-179,175,156"
+217,Structure Void,structure_void,
+218,Observer,observer,
+219,White Shulker Box,white_shulker_box,
+220,Orange Shulker Box,orange_shulker_box,
+221,Magenta Shulker Box,magenta_shulker_box,
+222,Light Blue Shulker Box,light_blue_shulker_box,
+223,Yellow Shulker Box,yellow_shulker_box,
+224,Lime Shulker Box,lime_shulker_box,
+225,Pink Shulker Box,pink_shulker_box,
+226,Gray Shulker Box,gray_shulker_box,
+227,Light Gray Shulker Box,silver_shulker_box,
+228,Cyan Shulker Box,cyan_shulker_box,
+229,Purple Shulker Box,purple_shulker_box,
+230,Blue Shulker Box,blue_shulker_box,
+231,Brown Shulker Box,brown_shulker_box,
+232,Green Shulker Box,green_shulker_box,
+233,Red Shulker Box,red_shulker_box,
+234,Black Shulker Box,black_shulker_box,
+235,White Glazed Terracotta,white_glazed_terracotta,
+236,Orange Glazed Terracotta,orange_glazed_terracotta,
+237,Magenta Glazed Terracotta,magenta_glazed_terracotta,
+238,Light Blue Glazed Terracotta,light_blue_glazed_terracotta,
+239,Yellow Glazed Terracotta,yellow_glazed_terracotta,
+240,Lime Glazed Terracotta,lime_glazed_terracotta,
+241,Pink Glazed Terracotta,pink_glazed_terracotta,
+242,Gray Glazed Terracotta,gray_glazed_terracotta,
+243,Light Gray Glazed Terracotta,light_gray_glazed_terracotta,
+244,Cyan Glazed Terracotta,cyan_glazed_terracotta,
+245,Purple Glazed Terracotta,purple_glazed_terracotta,
+246,Blue Glazed Terracotta,blue_glazed_terracotta,
+247,Brown Glazed Terracotta,brown_glazed_terracotta,
+248,Green Glazed Terracotta,green_glazed_terracotta,
+249,Red Glazed Terracotta,red_glazed_terracotta,
+250,Black Glazed Terracotta,black_glazed_terracotta,
+251,White Concrete,concrete,
+251.1,Orange Concrete,concrete,
+251.2,Magenta Concrete,concrete,
+251.3,Light Blue Concrete,concrete,
+251.4,Yellow Concrete,concrete,
+251.5,Lime Concrete,concrete,
+251.6,Pink Concrete,concrete,
+251.7,Gray Concrete,concrete,
+251.8,Light Gray Concrete,concrete,
+251.9,Cyan Concrete,concrete,
+251.1,Purple Concrete,concrete,
+251.11,Blue Concrete,concrete,
+251.12,Brown Concrete,concrete,
+251.13,Green Concrete,concrete,
+251.14,Red Concrete,concrete,
+251.15,Black Concrete,concrete,
+252,White Concrete Powder,concrete_powder,
+252.1,Orange Concrete Powder,concrete_powder,
+252.2,Magenta Concrete Powder,concrete_powder,
+252.3,Light Blue Concrete Powder,concrete_powder,
+252.4,Yellow Concrete Powder,concrete_powder,
+252.5,Lime Concrete Powder,concrete_powder,
+252.6,Pink Concrete Powder,concrete_powder,
+252.7,Gray Concrete Powder,concrete_powder,
+252.8,Light Gray Concrete Powder,concrete_powder,
+252.9,Cyan Concrete Powder,concrete_powder,
+252.1,Purple Concrete Powder,concrete_powder,
+252.11,Blue Concrete Powder,concrete_powder,
+252.12,Brown Concrete Powder,concrete_powder,
+252.13,Green Concrete Powder,concrete_powder,
+252.14,Red Concrete Powder,concrete_powder,
+252.15,Black Concrete Powder,concrete_powder,
+255,Structure Block,structure_block,
+256,Iron Shovel,iron_shovel,
+257,Iron Pickaxe,iron_pickaxe,
+258,Iron Axe,iron_axe,
+259,Flint and Steel,flint_and_steel,
+260,Apple,apple,"(174,52,53)"
+261,Bow,bow,
+262,Arrow,arrow,
+263,Coal,coal,"(25,25,25)"
+263.1,Charcoal,coal,"(25,25,25)"
+264,Diamond,diamond,"-100,198,181"
+265,Iron Ingot,iron_ingot,
+266,Gold Ingot,gold_ingot,
+267,Iron Sword,iron_sword,
+268,Wooden Sword,wooden_sword,
+269,Wooden Shovel,wooden_shovel,
+270,Wooden Pickaxe,wooden_pickaxe,
+271,Wooden Axe,wooden_axe,
+272,Stone Sword,stone_sword,
+273,Stone Shovel,stone_shovel,
+274,Stone Pickaxe,stone_pickaxe,
+275,Stone Axe,stone_axe,
+276,Diamond Sword,diamond_sword,
+277,Diamond Shovel,diamond_shovel,
+278,Diamond Pickaxe,diamond_pickaxe,
+279,Diamond Axe,diamond_axe,
+280,Stick,stick,
+281,Bowl,bowl,
+282,Mushroom Stew,mushroom_stew,
+283,Golden Sword,golden_sword,
+284,Golden Shovel,golden_shovel,
+285,Golden Pickaxe,golden_pickaxe,
+286,Golden Axe,golden_axe,
+287,String,string,"-178,178,178"
+288,Feather,feather,
+289,Gunpowder,gunpowder,"(82,82,82)"
+290,Wooden Hoe,wooden_hoe,
+291,Stone Hoe,stone_hoe,
+292,Iron Hoe,iron_hoe,
+293,Diamond Hoe,diamond_hoe,
+294,Golden Hoe,golden_hoe,
+295,Wheat Seeds,wheat_seeds,
+296,Wheat,wheat,"(154,135,75)"
+297,Bread,bread,
+298,Leather Helmet,leather_helmet,
+299,Leather Tunic,leather_chestplate,
+300,Leather Pants,leather_leggings,
+301,Leather Boots,leather_boots,
+302,Chainmail Helmet,chainmail_helmet,
+303,Chainmail Chestplate,chainmail_chestplate,
+304,Chainmail Leggings,chainmail_leggings,
+305,Chainmail Boots,chainmail_boots,
+306,Iron Helmet,iron_helmet,
+307,Iron Chestplate,iron_chestplate,
+308,Iron Leggings,iron_leggings,
+309,Iron Boots,iron_boots,
+310,Diamond Helmet,diamond_helmet,
+311,Diamond Chestplate,diamond_chestplate,
+312,Diamond Leggings,diamond_leggings,
+313,Diamond Boots,diamond_boots,
+314,Golden Helmet,golden_helmet,
+315,Golden Chestplate,golden_chestplate,
+316,Golden Leggings,golden_leggings,
+317,Golden Boots,golden_boots,
+318,Flint,flint,"(77,77,77)"
+319,Raw Porkchop,porkchop,
+320,Cooked Porkchop,cooked_porkchop,
+321,Painting,painting,
+322,Golden Apple,golden_apple,
+322.1,Enchanted Golden Apple,golden_apple,
+323,Sign,sign,
+324,Oak Door,wooden_door,
+325,Bucket,bucket,
+326,Water Bucket,water_bucket,
+327,Lava Bucket,lava_bucket,
+328,Minecart,minecart,
+329,Saddle,saddle,
+330,Iron Door,iron_door,
+331,Redstone,redstone,"(115,0,0)"
+332,Snowball,snowball,"-185,194,194"
+333,Oak Boat,boat,
+334,Leather,leather,
+335,Milk Bucket,milk_bucket,
+336,Brick,brick,
+337,Clay,clay_ball,
+338,Sugar Canes,reeds,
+339,Paper,paper,
+340,Book,book,
+341,Slimeball,slime_ball,
+342,Minecart with Chest,chest_minecart,
+343,Minecart with Furnace,furnace_minecart,
+344,Egg,egg,
+345,Compass,compass,
+346,Fishing Rod,fishing_rod,
+347,Clock,clock,
+348,Glowstone Dust,glowstone_dust,"(179,127,72)"
+349,Raw Fish,fish,
+349.1,Raw Salmon,fish,
+349.2,Clownfish,fish,
+349.3,Pufferfish,fish,
+350,Cooked Fish,cooked_fish,
+350.1,Cooked Salmon,cooked_fish,
+351,Ink Sack,dye,
+351.1,Rose Red,dye,
+351.2,Cactus Green,dye,
+351.3,Coco Beans,dye,
+351.4,Lapis Lazuli,dye,
+351.5,Purple Dye,dye,
+351.6,Cyan Dye,dye,
+351.7,Light Gray Dye,dye,
+351.8,Gray Dye,dye,
+351.9,Pink Dye,dye,
+351.1,Lime Dye,dye,
+351.11,Dandelion Yellow,dye,
+351.12,Light Blue Dye,dye,
+351.13,Magenta Dye,dye,
+351.14,Orange Dye,dye,
+351.15,Bone Meal,dye,
+352,Bone,bone,"-204,203,184"
+353,Sugar,sugar,
+354,Cake,cake,
+355,Bed,bed,
+356,Redstone Repeater,repeater,
+357,Cookie,cookie,
+358,Map,filled_map,
+359,Shears,shears,
+360,Melon,melon,"(148,72,43)"
+361,Pumpkin Seeds,pumpkin_seeds,
+362,Melon Seeds,melon_seeds,
+363,Raw Beef,beef,
+364,Steak,cooked_beef,
+365,Raw Chicken,chicken,
+366,Cooked Chicken,cooked_chicken,
+367,Rotten Flesh,rotten_flesh,"(141,69,36)"
+368,Ender Pearl,ender_pearl,"-38,124,109"
+369,Blaze Rod,blaze_rod,"(196,133,26)"
+370,Ghast Tear,ghast_tear,"-173,186,186"
+371,Gold Nugget,gold_nugget,
+372,Nether Wart,nether_wart,"(131,34,42)"
+373,Potion,potion,
+374,Glass Bottle,glass_bottle,
+375,Spider Eye,spider_eye,"(143,73,89)"
+376,Fermented Spider Eye,fermented_spider_eye,
+377,Blaze Powder,blaze_powder,
+378,Magma Cream,magma_cream,
+379,Brewing Stand,brewing_stand,
+380,Cauldron,cauldron,
+381,Eye of Ender,ender_eye,
+382,Glistering Melon,speckled_melon,
+383.4,Spawn Elder Guardian,spawn_egg,
+383.5,Spawn Wither Skeleton,spawn_egg,
+383.6,Spawn Stray,spawn_egg,
+383.23,Spawn Husk,spawn_egg,
+383.27,Spawn Zombie Villager,spawn_egg,
+383.28,Spawn Skeleton Horse,spawn_egg,
+383.29,Spawn Zombie Horse,spawn_egg,
+383.31,Spawn Donkey,spawn_egg,
+383.32,Spawn Mule,spawn_egg,
+383.34,Spawn Evoker,spawn_egg,
+383.35,Spawn Vex,spawn_egg,
+383.36,Spawn Vindicator,spawn_egg,
+383.5,Spawn Creeper,spawn_egg,
+383.51,Spawn Skeleton,spawn_egg,
+383.52,Spawn Spider,spawn_egg,
+383.54,Spawn Zombie,spawn_egg,
+383.55,Spawn Slime,spawn_egg,
+383.56,Spawn Ghast,spawn_egg,
+383.57,Spawn Zombie Pigman,spawn_egg,
+383.58,Spawn Enderman,spawn_egg,
+383.59,Spawn Cave Spider,spawn_egg,
+383.6,Spawn Silverfish,spawn_egg,
+383.61,Spawn Blaze,spawn_egg,
+383.62,Spawn Magma Cube,spawn_egg,
+383.65,Spawn Bat,spawn_egg,
+383.66,Spawn Witch,spawn_egg,
+383.67,Spawn Endermite,spawn_egg,
+383.68,Spawn Guardian,spawn_egg,
+383.69,Spawn Shulker,spawn_egg,
+383.9,Spawn Pig,spawn_egg,
+383.91,Spawn Sheep,spawn_egg,
+383.92,Spawn Cow,spawn_egg,
+383.93,Spawn Chicken,spawn_egg,
+383.94,Spawn Squid,spawn_egg,
+383.95,Spawn Wolf,spawn_egg,
+383.96,Spawn Mooshroom,spawn_egg,
+383.98,Spawn Ocelot,spawn_egg,
+383.1,Spawn Horse,spawn_egg,
+383.101,Spawn Rabbit,spawn_egg,
+383.102,Spawn Polar Bear,spawn_egg,
+383.103,Spawn Llama,spawn_egg,
+383.105,Spawn Parrot,spawn_egg,
+383.12,Spawn Villager,spawn_egg,
+384,Bottle o' Enchanting,experience_bottle,
+385,Fire Charge,fire_charge,
+386,Book and Quill,writable_book,
+387,Written Book,written_book,
+388,Emerald,emerald,"-75,185,108"
+389,Item Frame,item_frame,
+390,Flower Pot,flower_pot,
+391,Carrot,carrot,"(127,119,27)"
+392,Potato,potato,"(177,133,62)"
+393,Baked Potato,baked_potato,
+394,Poisonous Potato,poisonous_potato,"(148,137,58)"
+395,Empty Map,map,
+396,Golden Carrot,golden_carrot,
+397,Mob Head ,skull,
+397.1,Mob Head ,skull,
+397.2,Mob Head ,skull,
+397.3,Mob Head ,skull,
+397.4,Mob Head ,skull,
+397.5,Mob Head ,skull,
+398,Carrot on a Stick,carrot_on_a_stick,
+399,Nether Star,nether_star,"-184,171,232"
+400,Pumpkin Pie,pumpkin_pie,
+401,Firework Rocket,fireworks,
+402,Firework Star,firework_charge,
+403,Enchanted Book,enchanted_book,
+404,Redstone Comparator,comparator,
+405,Nether Brick,netherbrick,
+406,Nether Quartz,quartz,
+407,Minecart with TNT,tnt_minecart,
+408,Minecart with Hopper,hopper_minecart,
+409,Prismarine Shard,prismarine_shard,"-99,154,138"
+410,Prismarine Crystals,prismarine_crystals,
+411,Raw Rabbit,rabbit,
+412,Cooked Rabbit,cooked_rabbit,
+413,Rabbit Stew,rabbit_stew,
+414,Rabbit's Foot,rabbit_foot,
+415,Rabbit Hide,rabbit_hide,
+416,Armor Stand,armor_stand,
+417,Iron Horse Armor,iron_horse_armor,
+418,Golden Horse Armor,golden_horse_armor,
+419,Diamond Horse Armor,diamond_horse_armor,
+420,Lead,lead,
+421,Name Tag,name_tag,
+422,Minecart with Command Block,command_block_minecart,
+423,Raw Mutton,mutton,
+424,Cooked Mutton,cooked_mutton,
+425,Banner,banner,
+426,End Crystal,end_crystal,"-200,127,207"
+427,Spruce Door,spruce_door,
+428,Birch Door,birch_door,
+429,Jungle Door,jungle_door,
+430,Acacia Door,acacia_door,
+431,Dark Oak Door,dark_oak_door,
+432,Chorus Fruit,chorus_fruit,"-143,112,143"
+433,Popped Chorus Fruit,popped_chorus_fruit,
+434,Beetroot,beetroot,"(155,77,78)"
+435,Beetroot Seeds,beetroot_seeds,"(179,147,92)"
+436,Beetroot Soup,beetroot_soup,
+437,Dragon's Breath,dragon_breath,
+438,Splash Potion,splash_potion,
+439,Spectral Arrow,spectral_arrow,
+440,Tipped Arrow,tipped_arrow,
+441,Lingering Potion,lingering_potion,
+442,Shield,shield,
+443,Elytra,elytra,
+444,Spruce Boat,spruce_boat,
+445,Birch Boat,birch_boat,
+446,Jungle Boat,jungle_boat,
+447,Acacia Boat,acacia_boat,
+448,Dark Oak Boat,dark_oak_boat,
+449,Totem of Undying,totem_of_undying,
+450,Shulker Shell,shulker_shell,"(132,91,132)"
+452,Iron Nugget,iron_nugget,
+453,Knowledge Book,knowledge_book,
+2256,13 Disc,record_13,
+2257,Cat Disc,record_cat,
+2258,Blocks Disc,record_blocks,
+2259,Chirp Disc,record_chirp,
+2260,Far Disc,record_far,
+2261,Mall Disc,record_mall,
+2262,Mellohi Disc,record_mellohi,
+2263,Stal Disc,record_stal,
+2264,Strad Disc,record_strad,
+2265,Ward Disc,record_ward,
+2266,11 Disc,record_11,
+2267,Wait Disc,record_wait,
