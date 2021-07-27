@@ -15,14 +15,14 @@ from PIL import Image, ImageFilter
 
 life = 1
 frame = 33
-path = '/Volumes/My Data/Minecraft AI/recordings/Single Frames/' + str(life)
-filename = "frame" + str(frame) + ".png"
+imageFile = "ImageFilePath"
+depthFile = "DepthFilePath"
 
-img = mpimg.imread(path + '/video_frames/' + filename)
+img = mpimg.imread(imageFile)
 
 
 # Make an array with ones in the shape of an 'X'
-depthImage = Image.open(path + '/depth_frames/' + filename)
+depthImage = Image.open(depthFile)
 depth = np.array(depthImage)
 
 fig = plt.figure()
